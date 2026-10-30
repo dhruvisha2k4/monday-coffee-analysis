@@ -163,7 +163,8 @@ The sale-to-rent ratio (average sale divided by average rent per customer) is a 
 
 ### Q9. How do monthly sales grow or decline in each city?
 
-*Add your result here: run Q9 in `analysis_queries.sql` and note which cities show steady growth and which show sharp dips.*
+Monthly growth analysis (MoM) measures the percentage increase or decrease in a business metric compared to the previous month.
+Business interpretation: A positive growth ratio indicates an increase in sales, while a negative ratio indicates a decline.
 
 ### Q10. Market Potential: top 3 cities by total revenue
 
